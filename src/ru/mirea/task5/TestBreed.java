@@ -1,6 +1,6 @@
-package Dog;
+package ru.mirea.task5;
 
-public class TestDog
+public class TestBreed
 {
     public static void main(String[] args) {
         Breed d1 = new Breed("Bob",12, "poodle" );

@@ -1,4 +1,4 @@
-package Dog;
+package ru.mirea.task5;
 
 public class Breed extends Dog {
     private String breedDog;

@@ -1,4 +1,4 @@
-package prak2;
+package ru.mirea.task4;
 
 public class Author {
     private String name;
