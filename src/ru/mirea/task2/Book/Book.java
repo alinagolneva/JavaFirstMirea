@@ -1,4 +1,4 @@
-package Book;
+package ru.mirea.task2.Book;
 
 public class Book {
     private String name;

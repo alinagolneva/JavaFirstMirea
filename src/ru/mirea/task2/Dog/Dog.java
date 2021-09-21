@@ -1,4 +1,4 @@
-package Dog;
+package ru.mirea.task2.Dog;
 
 public class Dog {
     private String name;

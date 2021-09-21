@@ -1,4 +1,4 @@
-package BallTest;
+package ru.mirea.task2.BallTest;
 
 public class BallTest {
     public static void main(String[] args) {

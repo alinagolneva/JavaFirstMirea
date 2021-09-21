@@ -1,4 +1,4 @@
-package BallTest;
+package ru.mirea.task2.BallTest;
 
 public class Ball {
     private String color;

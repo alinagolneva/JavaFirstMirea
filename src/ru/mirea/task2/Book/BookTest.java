@@ -1,6 +1,5 @@
-package Book;
+package ru.mirea.task2.Book;
 
-import Dog.Dog;
 
 public class BookTest {
     public static void main(String[] args) {
