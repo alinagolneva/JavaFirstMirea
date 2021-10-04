@@ -4,7 +4,7 @@ public class TestCircle {
     public static void main(String[] ars){
         Circle cir = new Circle(0);
         cir.setRadius(12);
-        System.out.println("Radius = " + cir.getRadius());
+        System.out.println("Радиус = " + cir.getRadius());
         cir.getDiameter();
     }
 }
