@@ -1,5 +1,4 @@
-package com.example.gui11;
-
+/*package ru.mirea.task8;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import javafx.animation.*;
@@ -11,11 +10,11 @@ import javafx.scene.image.ImageView;
 import javafx.stage.Stage;
 import javafx.util.Duration;
 
-public class App1FX extends Application {
+public class Ap1FX extends Application {
     @Override
     public void start(Stage stage) throws FileNotFoundException {
 
-        App1FX app1fx = new App1FX();
+        com.example.task8.Ap1FX app1fx = new com.example.task8.Ap1FX();
         //Creating an image
         Image image1 = new Image(new FileInputStream("C:\\Users\\Alina\\Downloads\\шаг1.png"));
         Image image2 = new Image(new FileInputStream("C:\\Users\\Alina\\Downloads\\шаг2.png"));
@@ -61,4 +60,4 @@ public class App1FX extends Application {
     public static void main(String args[]) {
         launch(args);
     }
-}
+}*/

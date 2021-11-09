@@ -1,4 +1,4 @@
-package com.example.gui11;
+/*package ru.mirea.task8;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -13,7 +13,7 @@ import javafx.scene.shape.Rectangle;
 import javafx.stage.Stage;
 
 
-public class ShapeFX extends Application
+public class ShapefX extends Application
 {
     public void start(Stage stage) throws Exception {
         Circle circle1 = new Circle(15,20,5);
@@ -86,3 +86,5 @@ public class ShapeFX extends Application
         launch(args);
     }
 }
+ */
+

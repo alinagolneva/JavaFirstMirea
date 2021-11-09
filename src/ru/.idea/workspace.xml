@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c4ac6a4-aadb-48f6-807b-b31def702ae2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mirea/.idea/mirea.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mirea/untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaFirstMirea.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaFirstMirea.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task11/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/mirea/task11/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/.idea/libraries/Maven__org_openjfx_javafx_base_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/.idea/libraries/Maven__org_openjfx_javafx_base_win_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/.idea/libraries/Maven__org_openjfx_javafx_controls_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/.idea/libraries/Maven__org_openjfx_javafx_controls_win_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/.idea/libraries/Maven__org_openjfx_javafx_fxml_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/.idea/libraries/Maven__org_openjfx_javafx_graphics_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/GUI.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/GUI11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/src/main/java/com/example/gui11/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/src/main/java/com/example/gui11/.idea/libraries/openjfx_17_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/libraries/openjfx_17_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/src/main/java/com/example/gui11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/src/main/java/com/example/gui11/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/src/main/java/com/example/gui11/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/src/main/java/com/example/gui11/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/src/main/java/com/example/gui11/App1FX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/src/main/java/com/example/gui11/AppFX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/src/main/java/com/example/gui11/ShapeFX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/src/main/java/com/example/gui11/gui11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mirea/task7/out/production/task7/ru/mirea/task7/task7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/src/main/java/com/example/gui11/out/production/gui11/com/example/gui11/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/src/main/java/com/example/gui11/out/production/gui11/com/example/gui11/.idea/libraries/openjfx_17_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/src/main/java/com/example/gui11/out/production/gui11/com/example/gui11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/src/main/java/com/example/gui11/out/production/gui11/com/example/gui11/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/src/main/java/com/example/gui11/out/production/gui11/com/example/gui11/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/src/main/java/com/example/gui11/out/production/gui11/com/example/gui11/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/src/main/java/com/example/gui11/out/production/gui11/com/example/gui11/gui11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mirea/task7/task7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/src/main/resources/com/example/gui11/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/target/classes/com/example/gui11/App1FX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/target/classes/com/example/gui11/AppFX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/target/classes/com/example/gui11/ShapeFX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/target/classes/com/example/gui11/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task8/GUI/target/classes/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mirea/task9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task9/src/main/java/com/example/winner1/Winner1.java" beforeDir="false" afterPath="$PROJECT_DIR$/mirea/task9/src/main/java/com/example/winner1/Winner1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirea/task9/src/main/java/module-info.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="20B7f6OknstbfuRb2gLa7M3kHx8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c4ac6a4-aadb-48f6-807b-b31def702ae2" name="Changes" comment="" />
+      <created>1635506226903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635506226903</updated>
+    </task>
+    <servers />
+  </component>
+</project>

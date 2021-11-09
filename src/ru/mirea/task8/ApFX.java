@@ -1,4 +1,4 @@
-package com.example.gui11;
+/*package ru.mirea.task8;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -8,7 +8,7 @@ import javafx.scene.Scene;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.stage.Stage;
-public class AppFX extends Application {
+public class ApFX extends Application {
 
 
     @Override
@@ -48,4 +48,4 @@ public class AppFX extends Application {
     public static void main(String args[]) {
         launch(args);
     }
-}
+}*/
