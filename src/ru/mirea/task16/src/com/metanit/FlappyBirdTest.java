@@ -1,11 +1,9 @@
-/*package ru.mirea.task30;
+package ru.mirea.task16.src.com.metanit;
 
 import org.junit.Assert;
 
 import java.util.ArrayList;
 import java.util.List;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class FlappyBirdTest {
 
@@ -19,4 +17,4 @@ class FlappyBirdTest {
         }
         Assert.assertEquals(expected, actual);
     }
-}*/
+}
